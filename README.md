@@ -1,5 +1,5 @@
 Plataforma de Adopción de Mascotas 🐾
-  
+
   **Descripción**
 Este proyecto consiste en el diseño y desarrollo de una base de datos relacional para una plataforma de adopción de mascotas. Su objetivo es facilitar la conexión entre personas interesadas en adoptar y los refugios, gestionando eficientemente la información de mascotas, adoptantes y organizaciones. Proporciona herramientas analíticas para mejorar la toma de decisiones y promover una adopción segura y transparente.
   
