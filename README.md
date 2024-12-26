@@ -1,15 +1,15 @@
 Plataforma de Adopción de Mascotas 🐾
 
-  **Descripción**
+**Descripción:**
 Este proyecto consiste en el diseño y desarrollo de una base de datos relacional para una plataforma de adopción de mascotas. Su objetivo es facilitar la conexión entre personas interesadas en adoptar y los refugios, gestionando eficientemente la información de mascotas, adoptantes y organizaciones. Proporciona herramientas analíticas para mejorar la toma de decisiones y promover una adopción segura y transparente.
   
-  **Objetivos**
+**Objetivos:**
 - Registrar y gestionar información sobre mascotas, usuarios y refugios.
 - Facilitar el seguimiento de solicitudes de adopción, visitas y adopciones realizadas.
 - Generar informes útiles para los refugios, optimizando recursos y campañas.
 - Asegurar la integridad y consistencia de los datos mediante triggers y procedimientos almacenados.
 
-  **Contenidos del Proyecto**
+**Contenido del Proyecto:**
 1. Estructura de la Base de Datos:
 - Diagramas E-R: Modelos de alto nivel y detallados.
 - Tablas principales: Mascotas, usuarios, refugios, solicitudes de adopción y visitas.
@@ -36,7 +36,7 @@ Este proyecto consiste en el diseño y desarrollo de una base de datos relaciona
 - GitHub: Almacenamiento de scripts y documentación.
 - ChatGPT: Soporte técnico y redacción de documentación.
 
-  **Requisitos**
+**Requisitos:**
 - Software necesario:
   - MySQL Workbench
   - Archivos .csv incluidos para cargar datos de prueba.
